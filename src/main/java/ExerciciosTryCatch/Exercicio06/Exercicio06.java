@@ -1,4 +1,4 @@
-package ExerciciosTryCatch.Exercicio6;
+package ExerciciosTryCatch.Exercicio06;
 
 import java.util.Scanner;
 

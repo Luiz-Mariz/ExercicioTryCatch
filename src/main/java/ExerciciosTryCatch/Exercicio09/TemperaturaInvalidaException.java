@@ -1,4 +1,4 @@
-package ExerciciosTryCatch.Exercicio9;
+package ExerciciosTryCatch.Exercicio09;
 
 public class TemperaturaInvalidaException extends RuntimeException {
     public TemperaturaInvalidaException(String message) {

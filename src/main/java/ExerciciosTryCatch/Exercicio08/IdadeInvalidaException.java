@@ -1,4 +1,4 @@
-package ExerciciosTryCatch.Exercicio8;
+package ExerciciosTryCatch.Exercicio08;
 
 class IdadeInvalidaException extends Exception {
     public IdadeInvalidaException(String mensagem) {

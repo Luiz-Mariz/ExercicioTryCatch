@@ -1,4 +1,4 @@
-package ExerciciosTryCatch.Exercicio4;
+package ExerciciosTryCatch.Exercicio04;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
